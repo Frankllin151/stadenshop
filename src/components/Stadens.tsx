@@ -2,7 +2,7 @@ import {items}from '@/dados/staden';
 
 export const Staden = () => {
     return (
-       <div className='p-10 mt-12 gap-1 grid xl:grid-cols-3 md:grid-cols-2 sm:grid-cols-1'>
+       <div className=' mt-12 gap-1 grid xl:grid-cols-3 md:grid-cols-2 sm:grid-cols-1'>
 
         {items.map((items) =>(
          
