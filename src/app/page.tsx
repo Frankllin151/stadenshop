@@ -14,7 +14,7 @@ text-gray-700
 
 */ 
     <div className='w-full h-screen text-black  bg-white '>
-     <div className='ml-64'>
+     <div className='ml-64 py-0 px-20'>
      <Search/>
      <Colunm/>
      <Staden/>
