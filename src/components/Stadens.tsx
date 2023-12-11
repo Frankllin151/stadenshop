@@ -20,7 +20,7 @@ export const Staden = () => {
         </span>
        </div>
          <p className='text-2xl px-5 text-indigo-900 uppercase font-bold'>{items.price}/m</p>
-      <button className='text-gray-700 mt-10 cursor-pointer py-3 px-10'>View Details</button>
+      <button className='text-gray-700 mt-10 cursor-pointer py-3 px-20'>View Details</button>
      </div>
         ))}
         

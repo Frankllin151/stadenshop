@@ -10,7 +10,6 @@ export const Sidebar = () =>{
                 <a href="" className="block py-2 px-4  text-lg font-semibold"><i className="  bi bi-house-door "></i> <span>My Properties</span></a>
                 <a href="" className="block py-2 px-4  text-lg font-semibold"><i className="  bi bi-bookmark "></i> <span>To do</span></a>
                 <a href="" className="block py-2 px-4  text-lg font-semibold"><i className="  bi bi-person "></i> <span>Temants</span></a>
-                <a href="" className="block py-2 px-4  text-lg font-semibold"><i className="  bi bi-person "></i> <span>Temants</span></a>
                 <a href="" className="block py-2 px-4  text-lg font-semibold"><i className="  bi bi-layout-text-sidebar "></i> <span>Leabes</span></a>
                 <a href="" className="block py-2 px-4  text-lg font-semibold"><i className="  bi bi-credit-card "></i> <span>Payments</span></a>
                 <a href="" className="block py-2 px-4 text-lg font-semibold"><i className=" bi bi-file-break "></i> <span>Documents</span></a>
