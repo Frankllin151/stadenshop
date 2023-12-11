@@ -1,6 +1,7 @@
 
 import { Colunm } from '@/components/Colunm'
 import { Staden } from '@/components/Stadens'
+import { Temants } from '@/components/Temants'
 import { TodoActivity } from '@/components/Todoactvity'
 import { Search } from '@/components/search'
 import { Sidebar } from '@/components/sidebar'
@@ -20,6 +21,7 @@ text-gray-700
      <Colunm/>
      <Staden/>
      <TodoActivity/>
+     <Temants/>
      </div>
       <Sidebar/>
     </div>

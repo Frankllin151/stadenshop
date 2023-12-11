@@ -1,10 +1,11 @@
 import { MessageActivety } from "./dashboard/MessagesActivety"
+import '../styles/global.css'
 
 export const TodoActivity = () => {
     return (
         <div className="p-10">
             <div className="flex">
-             <div className="to-do">
+             <div className="to-do w-1/2">
              <div className="">
                 <h2 className="text-indigo-900 font-bold">To do</h2>
              </div>
